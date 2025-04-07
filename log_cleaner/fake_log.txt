@@ -1,0 +1,5 @@
+INFO User logged in
+ERROR Failed login
+DEBUG Loading modules
+ERROR Connection timeout
+INFO Done
