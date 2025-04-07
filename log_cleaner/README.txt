@@ -1,4 +1,6 @@
-# the purpose of this py script is to create a text file with cleaned logs by filtering out banned keywords such as "ERROR" and "DEBUG". Users can provide their own keywords that they want filtered out. Input arguments will be validated
+# the purpose of this py script is to create a text file with cleaned logs by filtering out banned keywords 
+such as "ERROR" and "DEBUG". Users can provide their own keywords that they want filtered out. 
+Input arguments will be validated
 
 # learned concepts:
 # 1. general comprehesion - similar to list comprehesion 
