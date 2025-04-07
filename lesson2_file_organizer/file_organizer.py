@@ -1,23 +1,6 @@
 import os
 import shutil
 
-# name = "DevOps Ninja"
-
-# count = 5
-
-
-# # LIST (array in other langs)
-# files = ["file.txt", "file2.jpg", "file3.mp3"]
-
-# # DICT.
-# file_types = {
-#     "Images": [".jpg", ".png", ".jpeg"],
-#     "Docs": [".pdf", ".docx", ".txt"],
-#     "Music": [".mp3", ".wav"],
-# }
-
-
-
 
 FILE_TYPES = {
     "Images": [".jpg", ".jpeg", ".png"],
