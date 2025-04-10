@@ -1,0 +1,7 @@
+INFO System initialized
+DEBUG Loading configuration
+ERROR Failed to connect to server
+INFO User login successful
+WARNING Disk space low
+ERROR Disk write failed
+

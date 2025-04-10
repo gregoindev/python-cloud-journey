@@ -1,0 +1,2 @@
+ERROR Failed to connect to server
+ERROR Disk write failed
